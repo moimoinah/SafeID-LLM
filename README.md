@@ -11,6 +11,4 @@
 - **Streamlit Dashboard**
 - **FastAPI Backend**
 
-## 🚀 Live Demo
-**Terminal 3'ü kapatmazsan link canlı kalır!**
 
