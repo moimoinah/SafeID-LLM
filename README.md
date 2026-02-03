@@ -12,3 +12,10 @@
 - **FastAPI Backend**
 
 
+**⚠️ Link dies if PyCharm closes! Download & run locally:**
+
+```bash
+git clone https://github.com/moimoinah/SafeID-LLM.git
+cd SafeID-LLM
+pip install -r requirements.txt
+streamlit run dashboard.py
